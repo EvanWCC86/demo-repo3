@@ -1,0 +1,1 @@
+#first git in the local computer then push it to github
